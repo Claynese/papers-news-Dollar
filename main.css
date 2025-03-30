@@ -1,0 +1,73 @@
+.wrapper
+{
+    display: grid;
+    border: solid 2px;
+    border-color: rgb(0, 0, 0);
+    background-color: white;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 400px;
+}
+.box
+{
+    color: white;   
+}
+.box1
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    background-image: url(https://cdnstatic.rg.ru/uploads/images/229/79/80/photorep_imageid_619107_7f7164f0bc7ae4b1649318789.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.box2
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255); 
+    background-color: rgb(0, 0, 0);  
+}
+.box3
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255); 
+    background-color: rgb(0, 0, 0);  
+}
+.box4
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255); 
+    background-color: rgb(0, 0, 0);  
+}
+.box5
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    background-image: url(https://static.auction.ru/offer_images/rd48/2021/12/05/08/big/B/bI8ndYZBUB5/desjat_dollarov_ssha_1990_god_starogo_obrazca_press_uns_redkost_950g.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.box6
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);   
+}
+.box7
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);   
+}
+.box8
+{
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);   
+}
+.box9
+{ 
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    background-image: url(https://b.itemimg.com/i/307178930.0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
