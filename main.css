@@ -1,3 +1,11 @@
+
+.caveat-uniquifier {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
 .wrapper
 {
     display: grid;
@@ -23,19 +31,22 @@
 {
     border: solid 2px;
     border-color: rgb(255, 255, 255); 
-    background-color: rgb(0, 0, 0);  
+    background-color: rgb(0, 0, 0);
+    font-family: "Caveat", cursive;  
 }
 .box3
 {
     border: solid 2px;
     border-color: rgb(255, 255, 255); 
-    background-color: rgb(0, 0, 0);  
+    background-color: rgb(0, 0, 0);
+    font-family: "Caveat", cursive;  
 }
 .box4
 {
     border: solid 2px;
     border-color: rgb(255, 255, 255); 
-    background-color: rgb(0, 0, 0);  
+    background-color: rgb(0, 0, 0);
+    font-family: "Caveat", cursive;  
 }
 .box5
 {
@@ -49,19 +60,22 @@
 {
     border: solid 2px;
     border-color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);   
+    background-color: rgb(0, 0, 0);
+    font-family: "Caveat", cursive;   
 }
 .box7
 {
     border: solid 2px;
     border-color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);   
+    background-color: rgb(0, 0, 0); 
+    font-family: "Caveat", cursive;  
 }
 .box8
 {
     border: solid 2px;
     border-color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);   
+    background-color: rgb(0, 0, 0); 
+    font-family: "Caveat", cursive;  
 }
 .box9
 { 
